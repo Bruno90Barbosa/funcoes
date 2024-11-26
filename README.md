@@ -1,0 +1,1 @@
+Estou estudando sobre funções e estou praticando com exemplos simples para assimilar o conceito. O Algoritmo simula uma situação de saque e conforme os valores, eu utilizo funções para imprimir mensagens.
